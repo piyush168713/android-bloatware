@@ -348,4 +348,3 @@ adb shell pm uninstall -k --user 0	comtv.peel.samsung.app	#	#N/A
 adb shell pm uninstall -k --user 0	flipboard.boxer.app	#	Briefing
 adb shell pm uninstall -k --user 0	jp.gocro.smartnews.android	#	#N/A
 adb shell pm uninstall -k --user 0	net.aetherpal.device	#	#N/A
-
